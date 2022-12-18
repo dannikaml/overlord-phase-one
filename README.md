@@ -11,7 +11,7 @@ I am an entry-level Software Developer, but a Master in the art of learning. I h
 
 ### Usage
 ***
-This webpage is used for to neatly and collectively linking all of the the applicaitons and webpages that I have created. It is intended to be used by people or person(s) who are needing and/or wanting to look at my portfolio of work. 
+This webpage is utilized to neatly and collectively link all of the applicaitons and webpages that I have created. It is intended to be used by people or person(s) who are needing and/or wanting to look at my portfolio of work. 
 
 ### Project Status
 ***
