@@ -16,7 +16,7 @@ header {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background-color: cornflowerblue;
+  background-color: rgb(45, 66, 106);
 
 }
 
@@ -47,6 +47,13 @@ nav a {
   text-decoration: none;
   text-align: center;
   font-size: 200%;
+   
+
+}
+
+nav a:hover {
+  background-color:bisque;
+ 
 
 }
 
