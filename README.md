@@ -3,16 +3,20 @@
 ## Portfolio Hub
 ***
 ### Description
-A website for the Web Developing Portfolio of Dannika Long. This web application is will be designed to link each website/web page that is created by me, Dannika Long, all in one Hub. 
+This web application serves as the online portfolio of Dannika Long, showcasing her proficiency in web development. Designed as a centralized hub, the GitHub Repository links to website and web pages developed by Dannika Long, effectively highlighting her skillset in the field of web development.
 
-### About Me
-***
-I am an entry-level Software Developer, but a Master in the art of learning. I have had a successful business, ran created and operated from scratch. I sold this book of business and decided to take the leap into a the world of insurance. I have been an Evidence of Insurance specialist for 3 years and this is how I found my way to Web Development
 
 ### Usage
 ***
-This webpage is utilized to neatly and collectively link all of the applicaitons and webpages that I have created. It is intended to be used by people or person(s) who are needing and/or wanting to look at my portfolio of work. 
+The purpose of this webpage is to create a centralized hub for all the web applications and pages developed using different technologies. The webpage is designed to provide a tidy and comprehensive display of the portfolio work created by me, which can be accessed by anyone who is interested in viewing or assessing my work.
+
+### Technologies Used
+- HTML
+- CSS
+
+![screenshot](./assets/screencapture-file-C-Users-danni-projects-challenges-portfolio-hub-index-html-2023-04-27-21_23_19.png)
+
 
 ### Project Status
 ***
-In progess and to updated frequently.
+In progress and to be updated frequently.
